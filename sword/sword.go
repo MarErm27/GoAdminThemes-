@@ -6,8 +6,8 @@ import (
 	adminTemplate "github.com/MarErm27/GoAdmin/template"
 	"github.com/MarErm27/GoAdmin/template/components"
 	"github.com/MarErm27/GoAdmin/template/types"
-	"github.com/MarErm27/themes/common"
-	"github.com/MarErm27/themes/sword/resource"
+	"github.com/MarErm27/GoAdminThemes-/common"
+	"github.com/MarErm27/GoAdminThemes-/sword/resource"
 	"github.com/gobuffalo/packr/v2"
 )
 

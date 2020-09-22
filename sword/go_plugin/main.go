@@ -7,8 +7,8 @@ import (
 	"github.com/MarErm27/GoAdmin/modules/language"
 	"github.com/MarErm27/GoAdmin/template/components"
 	"github.com/MarErm27/GoAdmin/template/types"
-	"github.com/MarErm27/themes/sword"
-	"github.com/MarErm27/themes/sword/resource"
+	"github.com/MarErm27/GoAdminThemes-/sword"
+	"github.com/MarErm27/GoAdminThemes-/sword/resource"
 )
 
 type Theme struct {

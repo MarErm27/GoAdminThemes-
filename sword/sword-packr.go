@@ -5,4 +5,4 @@
 // and any other packr generated files.
 package sword
 
-import _ "github.com/MarErm27/themes/sword/packrd"
+import _ "github.com/MarErm27/GoAdminThemes-/sword/packrd"
