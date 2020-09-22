@@ -2693,7 +2693,7 @@ var TemplateList = map[string]string{"403": `<div class="missing-content">
         <div class="pull-right hidden-xs">
             <b>Theme</b> {{.System.Theme}}&nbsp;&nbsp;
         </div>
-        <strong>Powered by <a href="https://github.com/MarErm27/go-admin">UBCorp.PRO</a>.</strong>
+        <strong>Powered by <a href="https://github.com/MarErm27/GoAdmin">UBCorp.PRO</a>.</strong>
         {{.FooterInfo}}
     </footer>
 {{end}}`, "head": `{{define "head"}}

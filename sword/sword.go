@@ -3,9 +3,9 @@ package sword
 import (
 	"strings"
 
-	adminTemplate "github.com/MarErm27/go-admin/template"
-	"github.com/MarErm27/go-admin/template/components"
-	"github.com/MarErm27/go-admin/template/types"
+	adminTemplate "github.com/MarErm27/GoAdmin/template"
+	"github.com/MarErm27/GoAdmin/template/components"
+	"github.com/MarErm27/GoAdmin/template/types"
 	"github.com/MarErm27/themes/common"
 	"github.com/MarErm27/themes/sword/resource"
 	"github.com/gobuffalo/packr/v2"

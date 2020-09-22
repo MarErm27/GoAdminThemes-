@@ -4,9 +4,9 @@ import (
 	"html/template"
 	"strings"
 
-	"github.com/MarErm27/go-admin/modules/language"
-	"github.com/MarErm27/go-admin/template/components"
-	"github.com/MarErm27/go-admin/template/types"
+	"github.com/MarErm27/GoAdmin/modules/language"
+	"github.com/MarErm27/GoAdmin/template/components"
+	"github.com/MarErm27/GoAdmin/template/types"
 	"github.com/MarErm27/themes/sword"
 	"github.com/MarErm27/themes/sword/resource"
 )
